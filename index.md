@@ -5,7 +5,7 @@ layout: default
 
 <br>
 
-![Ansel Adams](https://en.wikipedia.org/wiki/Ansel_Adams#/media/File:Ansel_Adams_and_camera.jpg)
+![Ansel Adams](https://octodex.github.com/images/yaktocat.png)
 
 <br>
 
