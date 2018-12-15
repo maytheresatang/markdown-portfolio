@@ -8,6 +8,5 @@ layout: default
 ![Ansel Adams](https://octodex.github.com/images/yaktocat.png)
 
 <br>
-
-{% include 03-links.md %}
+![image of octocat again](https://cdn.worldvectorlogo.com/logos/github-octocat.svg)
 
