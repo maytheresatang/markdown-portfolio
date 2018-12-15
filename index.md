@@ -14,3 +14,10 @@ layout: default
 # What the heck
 ###### lightweight text huh
 
+<br>
+
+{% include 04-lists.md %}
+
+<br>
+
+{% include 05-emphasis.md %}
