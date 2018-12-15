@@ -2,5 +2,5 @@
 layout: default
 ---
 # HotinHerre
-## What the heck
+# What the heck
 ###### lightweight text huh
